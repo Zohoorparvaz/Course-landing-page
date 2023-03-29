@@ -1,5 +1,5 @@
 <template>
-  <ButtonComponent buttonText="NEW COURSE"></ButtonComponent>
+  <ButtonComponent buttonText="NEW COURSE" class="pill"></ButtonComponent>
 </template>
 
 <script>
