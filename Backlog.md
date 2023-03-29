@@ -1,0 +1,13 @@
+- Landing page
+  -- New course button componet
+  -- Notify me Component
+  -- Input component
+  -- Card component
+  -- phone carousel
+  -- animation each 8 seconds and change like a photo capture
+  -- Shutter button goes to the next image
+  -- Small photo would change with the animation. It is the previous main photo
+  -- ambient light background as the main photo
+- Thank you page
+  -- use the subscribe button as notify me component to subscribe to youtube
+  -- one card component
